@@ -47,7 +47,7 @@
             
             <a class="btn" style="
                 background: #3b3b3b;
-            " href="https://theosinstaller.github.io/TheosInstaller.pkg">Download Theos Installer 1.0<br><small>for macOS</small></a><br>
+            " href="https://theosinstaller.github.io/TheosInstaller.zip">Download Theos Installer 1.0<br><small>for macOS</small></a><br>
            <br>
         <strong>Theos :</strong> A cross-platform suite of tools for building and deploying software for iOS and other platform
             <a href="https://github.com/theos/theos/wiki">View Wiki history &raquo;</a>
